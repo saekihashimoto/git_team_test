@@ -4,6 +4,7 @@ public class Test01 {
 
 	public static void main(String[] args) {
 		System.out.println("橋本冴稀");
+		System.out.println("原田大瑚");
 
 	}
 
